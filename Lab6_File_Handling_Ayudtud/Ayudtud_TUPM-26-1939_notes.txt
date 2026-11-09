@@ -1,5 +1,0 @@
-Student: Ayudtud
-Student ID: TUPM-26-1939
-Seed Digit: 9
-ID Sum: 30
-Verification Value: 219
