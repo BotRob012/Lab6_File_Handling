@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Ayudtud
+Student ID: TUPM-26-1939
+Seed Digit: 9
+ID Sum: 30
+Verification Value: 219
+Dataset Sample Size: 80
+Valid Records: 80
+Average Global Active Power: 3.929
+JSON File: Ayudtud_TUPM-26-1939_record.json
+Backup File: Ayudtud_TUPM-26-1939_record.csv
