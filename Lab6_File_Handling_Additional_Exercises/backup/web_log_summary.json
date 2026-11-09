@@ -1,0 +1,33 @@
+{
+    "student": "Ayudtud",
+    "student_id": "TUPM-26-1939",
+    "records_processed": 1030,
+    "target_status_class": "3xx",
+    "matching_records": 165,
+    "status_code_counts": {
+        "302": 144,
+        "304": 21
+    },
+    "top_5_urls": [
+        {
+            "url": "/",
+            "requests": 47
+        },
+        {
+            "url": "/process.php",
+            "requests": 35
+        },
+        {
+            "url": "/contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest",
+            "requests": 34
+        },
+        {
+            "url": "/home.php",
+            "requests": 9
+        },
+        {
+            "url": "/logout.php",
+            "requests": 7
+        }
+    ]
+}

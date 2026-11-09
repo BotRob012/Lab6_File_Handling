@@ -1,0 +1,11 @@
+{
+    "student": "Ayudtud",
+    "student_id": "TUPM-26-1939",
+    "operating_system": "iOS",
+    "target_behavior_class": 5,
+    "total_records": 700,
+    "records_matching_os": 146,
+    "records_in_target_class": 31,
+    "average_battery_drain": 2727.97,
+    "average_data_usage": 1940.9
+}
